@@ -1,0 +1,6 @@
+[
+  "tests/test_wsgi_django_media.py::test_found_file_debug",
+  "tests/test_wsgi_django_media.py::test_found_file_no_escape",
+  "tests/test_wsgi_django_media.py::test_found_file_prod",
+  "tests/test_wsgi_django_media.py::test_debug_external"
+]
